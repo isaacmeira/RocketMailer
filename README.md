@@ -25,7 +25,7 @@ Layout de formulário de contato criado para o desafio da semana launch da rocke
     Validação estilizada feito com Yup e mudando no Sass os SPAMS
   <img src="https://s3.us-east-2.amazonaws.com/rocketmailer/Screenshot_6.png" height = "300" width = "400" />
   
-    Envio de Email todos os campos estiverem corretamente preenchidos
+    Envio de Email se todos os campos estiverem corretamente preenchidos
   <img src="https://s3.us-east-2.amazonaws.com/rocketmailer/Screenshot_7.png" height = "300" width = "400" />
   
  ## License
