@@ -12,13 +12,13 @@ Layout de formulário de contato criado para o desafio da semana launch da rocke
  Além disso, como no exemplo do código a lib aceita verificações e validações de requisições através do [YUP](https://github.com/jquense/yup) e a estilização de components pelo [STYLED-COMPONENTS](https://www.styled-components.com/).
  Foi usado também, além das tecnologias supracitadas, a estilização de modals usando o Sweet Alerts, que funcionou muito bem e sem problemas com o unform.
   
- ### COMO USAR:
+ ## COMO USAR:
   É NECESSÁRIO O USO DO [YARN](https://yarnpkg.com/pt-BR/) e recomenda-se o uso de algum terminal linux, caso esteja no windows, o terminal do Git também é super recomendado !
  
   - No projeto usar `yarn install` para instalar todas as dependências do projeto.
   - Após, executar `yarn start`.
   
-  ### SCREENSHOTS:
+  ## SCREENSHOTS:
     Tela Inicial
   <img src="https://s3.us-east-2.amazonaws.com/rocketmailer/Screenshot_5.png" height = "300" width = "400" />
 
