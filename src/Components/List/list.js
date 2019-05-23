@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 // LIB para Formulário da rocketseat
-import { Form, Input, Textarea } from "@rocketseat/unform";
+import { Form, Input } from "@rocketseat/unform";
 
 // Usa validação por meio do YUP
 import schema from "../../Validators/index";
@@ -49,7 +49,7 @@ export default class List extends Component {
             />
             <Input name="phone" placeholder="Seu Telefone (DDD)" />
             <Input name="nome" placeholder="Assunto" />
-            <Textarea id="message" name="message" placeholder="Mensangem " />
+            <Input multiline id="message" name="message" placeholder="Mensangem " />
 
             <button type="submit">Enviar</button>
           </Form>
